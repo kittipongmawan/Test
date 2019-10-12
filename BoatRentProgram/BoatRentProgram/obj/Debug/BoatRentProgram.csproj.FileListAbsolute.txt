@@ -1,0 +1,6 @@
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\bin\Debug\BoatRentProgram.exe.config
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\bin\Debug\BoatRentProgram.exe
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\bin\Debug\BoatRentProgram.pdb
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\obj\Debug\BoatRentProgram.csproj.CoreCompileInputs.cache
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\obj\Debug\BoatRentProgram.exe
+C:\Users\Tanaphat\source\repos\BoatRentProgram\BoatRentProgram\obj\Debug\BoatRentProgram.pdb

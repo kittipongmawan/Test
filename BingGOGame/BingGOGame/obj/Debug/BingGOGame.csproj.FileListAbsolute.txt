@@ -1,0 +1,13 @@
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\bin\Debug\BingGOGame.exe.config
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\bin\Debug\BingGOGame.exe
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\bin\Debug\BingGOGame.pdb
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\obj\Debug\BingGOGame.csproj.CoreCompileInputs.cache
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\obj\Debug\BingGOGame.exe
+C:\Users\Tanaphat\source\repos\BingGOGame\BingGOGame\obj\Debug\BingGOGame.pdb
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\bin\Debug\BingGOGame.exe.config
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\bin\Debug\BingGOGame.exe
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\bin\Debug\BingGOGame.pdb
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\obj\Debug\BingGOGame.csprojAssemblyReference.cache
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\obj\Debug\BingGOGame.csproj.CoreCompileInputs.cache
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\obj\Debug\BingGOGame.exe
+C:\Users\Tanaphat\source\repos\Test2\BingGOGame\BingGOGame\obj\Debug\BingGOGame.pdb
